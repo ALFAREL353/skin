@@ -1,4 +1,4 @@
-/skin url https://raw.githubusercontent.com/ALFAREL353/skin/main/farelskin2.png
-/skin url https://raw.githubusercontent.com/ALFAREL353/skin/main/seragam%20farel.png
+/skin url https://raw.githubusercontent.com/ALFAREL353/skin/main/farelskin2%20(1).png
+/skin url https://raw.githubusercontent.com/ALFAREL353/skin/main/seragam%20fareldua.png
 /skin url https://raw.githubusercontent.com/ALFAREL353/skin/main/nandonormal.png
 /skin url https://raw.githubusercontent.com/ALFAREL353/skin/main/nnado%20sekolah.png
