@@ -2,4 +2,4 @@
 /skin url https://raw.githubusercontent.com/ALFAREL353/skin/main/seragam%20fareldua.png
 /skin url https://raw.githubusercontent.com/ALFAREL353/skin/main/nandonormal.png
 /skin url https://raw.githubusercontent.com/ALFAREL353/skin/main/nnado%20sekolah.png
-/skin url skin_7012fdfb62f337d3ba5da8c35bd0293c.png
+/skin url https://raw.githubusercontent.com/ALFAREL353/skin/main/skin_7012fdfb62f337d3ba5da8c35bd0293c.png
