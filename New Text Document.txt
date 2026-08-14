@@ -4,4 +4,3 @@
 /skin url https://raw.githubusercontent.com/ALFAREL353/skin/main/nnado%20sekolah.png
 /skin url https://raw.githubusercontent.com/ALFAREL353/skin/main/skin_7012fdfb62f337d3ba5da8c35bd0293c.png
 /skin url https://raw.githubusercontent.com/ALFAREL353/skin/main/farelskin2%20(1)%20(1).png
-/skin url https://raw.githubusercontent.com/ALFAREL353/skin/main/farelskincopypunyavan.png
