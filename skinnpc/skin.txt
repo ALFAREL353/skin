@@ -1,0 +1,7 @@
+/npc skin --url https://raw.githubusercontent.com/ALFAREL353/skin/main/skinnpc/npc1.png
+/npc skin --url https://raw.githubusercontent.com/ALFAREL353/skin/main/skinnpc/npc3.png
+/npc skin --url https://raw.githubusercontent.com/ALFAREL353/skin/main/skinnpc/penjaga1.png
+/npc skin --url https://raw.githubusercontent.com/ALFAREL353/skin/main/skinnpc/penjaga2.png
+/npc skin --url https://raw.githubusercontent.com/ALFAREL353/skin/main/skinnpc/penjaga3.png
+/npc skin --url https://raw.githubusercontent.com/ALFAREL353/skin/main/skinnpc/penjaga4.png
+/npc skin --url https://raw.githubusercontent.com/ALFAREL353/skin/main/skinnpc/perempuan1.png
